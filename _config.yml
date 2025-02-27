@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Coconie's Log"
 title_separator          : "|"
-subtitle                 : "small positive action"
+subtitle                 : "공부 기록장"
 name                     : "Siyeun Yoo"
 description              : "Coconie's log"
 url                      : "https://coconie14.github.io"
