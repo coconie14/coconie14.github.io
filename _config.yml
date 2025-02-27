@@ -119,9 +119,6 @@ author:
   location         : "South Korea"
   email            : "hicizc@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hicizc@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/coconie14"
