@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "coconie"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/icon.png"
   bio              : "Hi there"
   location         : "Korea"
   email            : "hicizc@gmail.com"
